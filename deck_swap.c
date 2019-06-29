@@ -1,5 +1,4 @@
 /* Sher Khan 
-   991490409
  */ 
 
 #include <stdio.h>
